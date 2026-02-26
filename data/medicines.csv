@@ -1,0 +1,16 @@
+medicine,interacts_with,risk,drug_class,description
+Aspirin,Warfarin,High,NSAID,Blood thinner interaction increases bleeding risk
+Warfarin,Aspirin,High,Anticoagulant,Increases bleeding when combined with NSAIDs
+Paracetamol,Ibuprofen,Low,Analgesic,Generally safe but monitor dosage
+Ibuprofen,Paracetamol,Low,NSAID,Combination commonly used but dose dependent
+Metformin,Insulin,Medium,Antidiabetic,May increase risk of hypoglycemia
+Insulin,Metformin,Medium,Antidiabetic,Combined therapy requires glucose monitoring
+Amoxicillin,Alcohol,Medium,Antibiotic,Alcohol may reduce immune response
+Ciprofloxacin,Warfarin,High,Antibiotic,May increase anticoagulant effect
+Lisinopril,Potassium,High,ACE Inhibitor,May cause dangerous potassium elevation
+Simvastatin,Clarithromycin,High,Statin,Increases risk of muscle toxicity
+Azithromycin,Antacids,Medium,Antibiotic,Antacids reduce absorption
+Clopidogrel,Omeprazole,Medium,Antiplatelet,Reduced effectiveness possible
+Digoxin,Verapamil,High,Cardiac Glycoside,Toxicity risk increases
+Tramadol,Sertraline,High,Opioid,Risk of serotonin syndrome
+Prednisone,Ibuprofen,Medium,Corticosteroid,Increases gastric irritation risk
